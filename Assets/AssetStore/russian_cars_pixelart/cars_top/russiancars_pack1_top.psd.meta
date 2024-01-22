@@ -1,0 +1,2453 @@
+fileFormatVersion: 2
+guid: 891f953e8cb004449bb11bc6ac2ac469
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6529539054907897852
+    second: russiancars_pack1_top_0
+  - first:
+      213: 8613681680074401573
+    second: russiancars_pack1_top_1
+  - first:
+      213: -7440591343372975945
+    second: russiancars_pack1_top_2
+  - first:
+      213: -5799618046775686020
+    second: russiancars_pack1_top_3
+  - first:
+      213: 2873877655011955263
+    second: russiancars_pack1_top_4
+  - first:
+      213: 3146417363655509307
+    second: russiancars_pack1_top_5
+  - first:
+      213: -6452552867760290837
+    second: russiancars_pack1_top_6
+  - first:
+      213: 151420280202100740
+    second: russiancars_pack1_top_7
+  - first:
+      213: 7989322699432058406
+    second: russiancars_pack1_top_8
+  - first:
+      213: -1278320769104769036
+    second: russiancars_pack1_top_9
+  - first:
+      213: -947666037701567079
+    second: russiancars_pack1_top_10
+  - first:
+      213: 7810028876834657491
+    second: russiancars_pack1_top_11
+  - first:
+      213: -8760174955484723847
+    second: russiancars_pack1_top_12
+  - first:
+      213: -8992985585937731797
+    second: russiancars_pack1_top_13
+  - first:
+      213: 3207743716354140738
+    second: russiancars_pack1_top_14
+  - first:
+      213: -4800735173070476079
+    second: russiancars_pack1_top_15
+  - first:
+      213: -7687086242069610439
+    second: russiancars_pack1_top_16
+  - first:
+      213: -8775004699410981946
+    second: russiancars_pack1_top_17
+  - first:
+      213: 6978845998251940527
+    second: russiancars_pack1_top_18
+  - first:
+      213: -4421252597987618932
+    second: russiancars_pack1_top_19
+  - first:
+      213: -7404582281763810969
+    second: russiancars_pack1_top_20
+  - first:
+      213: -6601094571483335250
+    second: russiancars_pack1_top_21
+  - first:
+      213: 5459506001639072502
+    second: russiancars_pack1_top_22
+  - first:
+      213: -627015594549585903
+    second: russiancars_pack1_top_23
+  - first:
+      213: 5112686378589859102
+    second: russiancars_pack1_top_24
+  - first:
+      213: 1964172599924314102
+    second: russiancars_pack1_top_25
+  - first:
+      213: 1806684920722430091
+    second: russiancars_pack1_top_26
+  - first:
+      213: -1033120173412065136
+    second: russiancars_pack1_top_27
+  - first:
+      213: 6423989562896401924
+    second: russiancars_pack1_top_28
+  - first:
+      213: -4729267389463682213
+    second: russiancars_pack1_top_29
+  - first:
+      213: 2382599324681712385
+    second: russiancars_pack1_top_30
+  - first:
+      213: -214713023479578100
+    second: russiancars_pack1_top_31
+  - first:
+      213: 1827034518326622993
+    second: russiancars_pack1_top_32
+  - first:
+      213: 4196964731707274511
+    second: russiancars_pack1_top_33
+  - first:
+      213: -701589585095813896
+    second: russiancars_pack1_top_34
+  - first:
+      213: 5882278877937755652
+    second: russiancars_pack1_top_35
+  - first:
+      213: -4100951107180503493
+    second: russiancars_pack1_top_36
+  - first:
+      213: -4013167124865446024
+    second: russiancars_pack1_top_37
+  - first:
+      213: -7561932034750869031
+    second: russiancars_pack1_top_38
+  - first:
+      213: -8236175800732127947
+    second: russiancars_pack1_top_39
+  - first:
+      213: -3689083261667231881
+    second: russiancars_pack1_top_40
+  - first:
+      213: 2237631227050165715
+    second: russiancars_pack1_top_41
+  - first:
+      213: -8589049140781490388
+    second: russiancars_pack1_top_42
+  - first:
+      213: -8000288683375447730
+    second: russiancars_pack1_top_43
+  - first:
+      213: -1091808617097415693
+    second: russiancars_pack1_top_44
+  - first:
+      213: 1748092051218663462
+    second: russiancars_pack1_top_45
+  - first:
+      213: 7583861760764415536
+    second: russiancars_pack1_top_46
+  - first:
+      213: 1352200466393562894
+    second: russiancars_pack1_top_47
+  - first:
+      213: 5995225300009985156
+    second: russiancars_pack1_top_48
+  - first:
+      213: 1601875904849741816
+    second: russiancars_pack1_top_49
+  - first:
+      213: -4182876926932634682
+    second: russiancars_pack1_top_50
+  - first:
+      213: -6565965303227757900
+    second: russiancars_pack1_top_51
+  - first:
+      213: -3210065808244925805
+    second: russiancars_pack1_top_52
+  - first:
+      213: -4412715568517474980
+    second: russiancars_pack1_top_53
+  - first:
+      213: -3625204538510811892
+    second: russiancars_pack1_top_54
+  - first:
+      213: 8357094386433067812
+    second: russiancars_pack1_top_55
+  - first:
+      213: -4987084429941164998
+    second: russiancars_pack1_top_56
+  - first:
+      213: 3896076376323250764
+    second: russiancars_pack1_top_57
+  - first:
+      213: 6903951711627839633
+    second: russiancars_pack1_top_58
+  - first:
+      213: 8953618154187921290
+    second: russiancars_pack1_top_59
+  - first:
+      213: -8274368373132607840
+    second: russiancars_pack1_top_60
+  - first:
+      213: -7395069354052549619
+    second: russiancars_pack1_top_61
+  - first:
+      213: 4058494226878887887
+    second: russiancars_pack1_top_62
+  - first:
+      213: -3254020890540096565
+    second: russiancars_pack1_top_63
+  - first:
+      213: 8129649945805999232
+    second: russiancars_pack1_top_64
+  - first:
+      213: 7711926699709463259
+    second: russiancars_pack1_top_65
+  - first:
+      213: 3601295957735335090
+    second: russiancars_pack1_top_66
+  - first:
+      213: 4268975710067630425
+    second: russiancars_pack1_top_67
+  - first:
+      213: -1347313857106922724
+    second: russiancars_pack1_top_68
+  - first:
+      213: -2717550693061441182
+    second: russiancars_pack1_top_69
+  - first:
+      213: -7271516580294981255
+    second: russiancars_pack1_top_70
+  - first:
+      213: -8107262506662879630
+    second: russiancars_pack1_top_71
+  - first:
+      213: 6092932570748690501
+    second: russiancars_pack1_top_72
+  - first:
+      213: -5312648093954473992
+    second: russiancars_pack1_top_73
+  - first:
+      213: -1212554976052816409
+    second: russiancars_pack1_top_74
+  - first:
+      213: 3167301725937530284
+    second: russiancars_pack1_top_75
+  - first:
+      213: -5359286573411032842
+    second: russiancars_pack1_top_76
+  - first:
+      213: -6776604446793133431
+    second: russiancars_pack1_top_77
+  - first:
+      213: 5630213450815954299
+    second: russiancars_pack1_top_78
+  - first:
+      213: 4457071278300542331
+    second: russiancars_pack1_top_79
+  - first:
+      213: 2815124211343198927
+    second: russiancars_pack1_top_80
+  - first:
+      213: 169241243437510861
+    second: russiancars_pack1_top_81
+  - first:
+      213: 2356578206702727535
+    second: russiancars_pack1_top_82
+  - first:
+      213: 7713386347165834205
+    second: russiancars_pack1_top_83
+  - first:
+      213: 3423946296801948341
+    second: russiancars_pack1_top_84
+  - first:
+      213: -4649695292494328897
+    second: russiancars_pack1_top_85
+  - first:
+      213: -2881265499769966709
+    second: russiancars_pack1_top_86
+  - first:
+      213: -954202434447019961
+    second: russiancars_pack1_top_87
+  - first:
+      213: -8750601823530808115
+    second: russiancars_pack1_top_88
+  - first:
+      213: 7097226361401417004
+    second: russiancars_pack1_top_89
+  - first:
+      213: -2191784309400610252
+    second: russiancars_pack1_top_90
+  - first:
+      213: 6046515802320695086
+    second: russiancars_pack1_top_91
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: russiancars_pack1_top_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485af94e3d102f4b93a41fc201f1515
+      internalID: -6529539054907897852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c76a0c1625030409d6e529ed9e5841
+      internalID: 8613681680074401573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef277d930711594fa1ca65f8e9bd7da
+      internalID: -7440591343372975945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c56bc1f78b2a45bc442d60401ea5d
+      internalID: -5799618046775686020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18e7ada06928794c962efdcd0ca14e3
+      internalID: 2873877655011955263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a8288e789d0d42ba7280f718eb11b
+      internalID: 3146417363655509307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10b9b74da6330b4dab112cfe51976b5
+      internalID: -6452552867760290837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 914
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6235060f8078884cb92545e2ba6c782
+      internalID: 151420280202100740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 925
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56057e4dc9d12d841b0c4b0842b69ffb
+      internalID: 7989322699432058406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 925
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c088abd900c344ac8d11e8ecf9edd
+      internalID: -1278320769104769036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 925
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5db620428e68d4497d70a0c6cd3d1b
+      internalID: -947666037701567079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 925
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda64252803dab0498ca6221e2a89802
+      internalID: 7810028876834657491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 905
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f1cdd6a77c4cd43952e1a2a9222f3f
+      internalID: -8760174955484723847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 905
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5d6980d6ba613469b76f8393e87751
+      internalID: -8992985585937731797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 905
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a51bb3ccbfd2c644a26f122df049407
+      internalID: 3207743716354140738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 905
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06753e76bfcab44989872605d66bae1
+      internalID: -4800735173070476079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_16
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 913
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a2bc5b4d9d0041853b1d8be1ac1e0
+      internalID: -7687086242069610439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_17
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 913
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b1badc096906b40955506c05a95f47
+      internalID: -8775004699410981946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_18
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 913
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf731e498b67845a8cd642ecb24106
+      internalID: 6978845998251940527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_19
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 913
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636817ab478c3a488b35e6e115e5479
+      internalID: -4421252597987618932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_20
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 909
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225f4c3562eae04ea482dceb7993e2e
+      internalID: -7404582281763810969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 794
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1766f2a215ea94897c5f01c5f5a852
+      internalID: -6601094571483335250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 794
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7aa1e0c28d3084599af720d05afc03
+      internalID: 5459506001639072502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 794
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29acbf560c975a646984ec98ed34c8dc
+      internalID: -627015594549585903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 794
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea39e7695248d2499a3bab3add01706
+      internalID: 5112686378589859102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 800
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d089780e6eec4793f1f2aaf278db6
+      internalID: 1964172599924314102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 800
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c9465c077ce704483eac9fc5dcc6be
+      internalID: 1806684920722430091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 799
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4e2e9a08750b499f17250faab3ab0
+      internalID: -1033120173412065136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_28
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 800
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338fb6f15a0d3d4188fd5acadb0e13e
+      internalID: 6423989562896401924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 800
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7358a491fbee64199684e624ec2f1b
+      internalID: -4729267389463682213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2504ea54ba9e64e91edcf00d5c3ea4
+      internalID: 2382599324681712385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_31
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 798
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d69319077f1e5b408cc5b5c7ba7afc0
+      internalID: -214713023479578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 800
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca10d32dc3a2a42b4285b26541bded
+      internalID: 1827034518326622993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_33
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 800
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851d01481a74a2499ba6ac07d158008
+      internalID: 4196964731707274511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 806
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff6d0c782a88c4f98c13d68e566014
+      internalID: -701589585095813896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_35
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 806
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78817b01d0d02984184453e8d27ed2c7
+      internalID: 5882278877937755652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_36
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 806
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e27b62658ca44ca53e038b3a492d8
+      internalID: -4100951107180503493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_37
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 806
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95723a896fa00d4b9d7ed518753fd83
+      internalID: -4013167124865446024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 805
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e285e07ec09989a44b87e4ad0fc68fea
+      internalID: -7561932034750869031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_39
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 805
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938cccdab5dfd445a86e049afee9f15
+      internalID: -8236175800732127947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 694
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ff4665f54490f4b989bb2a72205b4f
+      internalID: -3689083261667231881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a89bc9251a1754896c2161689956f3
+      internalID: 2237631227050165715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26534bf9dfba8142a7befedfa52e906
+      internalID: -8589049140781490388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91558242527be864fb3a468b5923be7f
+      internalID: -8000288683375447730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0937fef42b81b342a22dcb60d3ff8c0
+      internalID: -1091808617097415693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 693
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d7cf81a537ec041a3b980a12a81a81
+      internalID: 1748092051218663462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 693
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8996510aad7143b0c596c9718bc35
+      internalID: 7583861760764415536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 693
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ceceb4f996494d933af5ff2a2023b
+      internalID: 1352200466393562894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 693
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70b9930ad23fe4fa19cdbd5c4947a3
+      internalID: 5995225300009985156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc6c1f12daaf6541938d32502aa1be6
+      internalID: 1601875904849741816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_50
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621fd1a6f7634c44cb2cd23c1076d704
+      internalID: -4182876926932634682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_51
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8065c7508bbdd48af50adf5b5af773
+      internalID: -6565965303227757900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_52
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0974f20ca1f7eb42b42f6ec0b68dd22
+      internalID: -3210065808244925805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 695
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243859eb34eca94ea7983baa09cdcfe
+      internalID: -4412715568517474980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_54
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 693
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4eef2f5fc994b43b56c0d571adde78
+      internalID: -3625204538510811892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_55
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 693
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794f8ba30f551b34d82b2381c2456b25
+      internalID: 8357094386433067812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_56
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 693
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdaa9bc73c42ab4191c7fb07531834a
+      internalID: -4987084429941164998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_57
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 693
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc83aed55ee39479ceb6ab65536099
+      internalID: 3896076376323250764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_58
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 701
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d1c5e7ee3a2b4c9e07d356d31cece
+      internalID: 6903951711627839633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_59
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 701
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb5362e2945010458d943a4e8277b5b
+      internalID: 8953618154187921290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_60
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 701
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1067fd3eec98249a8709e3a3f5d7d1
+      internalID: -8274368373132607840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_61
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 701
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8861748da9b8cb849b94c94bf72a4215
+      internalID: -7395069354052549619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 576
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f9b7637a6fed4385a6d43793be6a4
+      internalID: 4058494226878887887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 576
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4426e6c4d38142e4d8416e150f243f8c
+      internalID: -3254020890540096565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 576
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202bf777a42aede4da8d4e3bb57e5e49
+      internalID: 8129649945805999232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95dbf0a25ebd864f88b3af7b3c0035f
+      internalID: 7711926699709463259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45abedcc0bc8f4cbd24b5d794b0f36
+      internalID: 3601295957735335090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ebb27df7198c46af162fcb5022791
+      internalID: 4268975710067630425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_68
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbaaaea6c9faf4691aea7aecc20fe5
+      internalID: -1347313857106922724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_69
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2a847698a4d642adf0cd4c6115842
+      internalID: -2717550693061441182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_70
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69465f99cd753044d8cf70994b03feaa
+      internalID: -7271516580294981255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_71
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1596a9f7776c74a85e0b17c304c21c
+      internalID: -8107262506662879630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_72
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4217dd2cdc4b478030341826a0018
+      internalID: 6092932570748690501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_73
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ab51c737a8c24fb78024f80f196b9
+      internalID: -5312648093954473992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_74
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 553
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d143706eaf5b048be1fb25cd807cf2
+      internalID: -1212554976052816409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_75
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 554
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732d2e02b361b44d9bcfbb614d5216d
+      internalID: 3167301725937530284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_76
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 554
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbca79d0b139c545876368d8e7cd961
+      internalID: -5359286573411032842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_77
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 554
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7a662763ca4f44a2caaed449af70c
+      internalID: -6776604446793133431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_78
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 554
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9ffb7b7cad89b4ea93e6126309796f
+      internalID: 5630213450815954299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 65
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b46ee68f494a24a946a3c02acdbb5a
+      internalID: 4457071278300542331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 278
+        width: 65
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc8d6b7e5c31cf4fab702690ebeea76
+      internalID: 2815124211343198927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 278
+        width: 65
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359748c565985a84680fa217b3d7f1a0
+      internalID: 169241243437510861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 295
+        width: 71
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f39539944e83e45b1e1c9db2934ad9
+      internalID: 2356578206702727535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_83
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 295
+        width: 71
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50718d640439d4795fd8166f93c45e
+      internalID: 7713386347165834205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_84
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 327
+        width: 66
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41ece2a57581545a73c864a49bf195
+      internalID: 3423946296801948341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_85
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 327
+        width: 66
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140a94a3f362a04eaf5dcd295cfe209
+      internalID: -4649695292494328897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_86
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 374
+        width: 71
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570d6e3a381c3b04d9685e4b57a07f25
+      internalID: -2881265499769966709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_87
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 374
+        width: 71
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc07f0add780214f8b9a5a52c684727
+      internalID: -954202434447019961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_88
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 414
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d78f71e1731cc4aac3ff6742f6fb7a
+      internalID: -8750601823530808115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 414
+        width: 59
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9788f76adf94da74b8caa044b446c038
+      internalID: 7097226361401417004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_90
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 471
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8710f4d7fa52e654ca31fc4526d22759
+      internalID: -2191784309400610252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russiancars_pack1_top_91
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 471
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd05f73ea197f1e4596d571a3b81dfdb
+      internalID: 6046515802320695086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      russiancars_pack1_top_0: -6529539054907897852
+      russiancars_pack1_top_1: 8613681680074401573
+      russiancars_pack1_top_10: -947666037701567079
+      russiancars_pack1_top_11: 7810028876834657491
+      russiancars_pack1_top_12: -8760174955484723847
+      russiancars_pack1_top_13: -8992985585937731797
+      russiancars_pack1_top_14: 3207743716354140738
+      russiancars_pack1_top_15: -4800735173070476079
+      russiancars_pack1_top_16: -7687086242069610439
+      russiancars_pack1_top_17: -8775004699410981946
+      russiancars_pack1_top_18: 6978845998251940527
+      russiancars_pack1_top_19: -4421252597987618932
+      russiancars_pack1_top_2: -7440591343372975945
+      russiancars_pack1_top_20: -7404582281763810969
+      russiancars_pack1_top_21: -6601094571483335250
+      russiancars_pack1_top_22: 5459506001639072502
+      russiancars_pack1_top_23: -627015594549585903
+      russiancars_pack1_top_24: 5112686378589859102
+      russiancars_pack1_top_25: 1964172599924314102
+      russiancars_pack1_top_26: 1806684920722430091
+      russiancars_pack1_top_27: -1033120173412065136
+      russiancars_pack1_top_28: 6423989562896401924
+      russiancars_pack1_top_29: -4729267389463682213
+      russiancars_pack1_top_3: -5799618046775686020
+      russiancars_pack1_top_30: 2382599324681712385
+      russiancars_pack1_top_31: -214713023479578100
+      russiancars_pack1_top_32: 1827034518326622993
+      russiancars_pack1_top_33: 4196964731707274511
+      russiancars_pack1_top_34: -701589585095813896
+      russiancars_pack1_top_35: 5882278877937755652
+      russiancars_pack1_top_36: -4100951107180503493
+      russiancars_pack1_top_37: -4013167124865446024
+      russiancars_pack1_top_38: -7561932034750869031
+      russiancars_pack1_top_39: -8236175800732127947
+      russiancars_pack1_top_4: 2873877655011955263
+      russiancars_pack1_top_40: -3689083261667231881
+      russiancars_pack1_top_41: 2237631227050165715
+      russiancars_pack1_top_42: -8589049140781490388
+      russiancars_pack1_top_43: -8000288683375447730
+      russiancars_pack1_top_44: -1091808617097415693
+      russiancars_pack1_top_45: 1748092051218663462
+      russiancars_pack1_top_46: 7583861760764415536
+      russiancars_pack1_top_47: 1352200466393562894
+      russiancars_pack1_top_48: 5995225300009985156
+      russiancars_pack1_top_49: 1601875904849741816
+      russiancars_pack1_top_5: 3146417363655509307
+      russiancars_pack1_top_50: -4182876926932634682
+      russiancars_pack1_top_51: -6565965303227757900
+      russiancars_pack1_top_52: -3210065808244925805
+      russiancars_pack1_top_53: -4412715568517474980
+      russiancars_pack1_top_54: -3625204538510811892
+      russiancars_pack1_top_55: 8357094386433067812
+      russiancars_pack1_top_56: -4987084429941164998
+      russiancars_pack1_top_57: 3896076376323250764
+      russiancars_pack1_top_58: 6903951711627839633
+      russiancars_pack1_top_59: 8953618154187921290
+      russiancars_pack1_top_6: -6452552867760290837
+      russiancars_pack1_top_60: -8274368373132607840
+      russiancars_pack1_top_61: -7395069354052549619
+      russiancars_pack1_top_62: 4058494226878887887
+      russiancars_pack1_top_63: -3254020890540096565
+      russiancars_pack1_top_64: 8129649945805999232
+      russiancars_pack1_top_65: 7711926699709463259
+      russiancars_pack1_top_66: 3601295957735335090
+      russiancars_pack1_top_67: 4268975710067630425
+      russiancars_pack1_top_68: -1347313857106922724
+      russiancars_pack1_top_69: -2717550693061441182
+      russiancars_pack1_top_7: 151420280202100740
+      russiancars_pack1_top_70: -7271516580294981255
+      russiancars_pack1_top_71: -8107262506662879630
+      russiancars_pack1_top_72: 6092932570748690501
+      russiancars_pack1_top_73: -5312648093954473992
+      russiancars_pack1_top_74: -1212554976052816409
+      russiancars_pack1_top_75: 3167301725937530284
+      russiancars_pack1_top_76: -5359286573411032842
+      russiancars_pack1_top_77: -6776604446793133431
+      russiancars_pack1_top_78: 5630213450815954299
+      russiancars_pack1_top_79: 4457071278300542331
+      russiancars_pack1_top_8: 7989322699432058406
+      russiancars_pack1_top_80: 2815124211343198927
+      russiancars_pack1_top_81: 169241243437510861
+      russiancars_pack1_top_82: 2356578206702727535
+      russiancars_pack1_top_83: 7713386347165834205
+      russiancars_pack1_top_84: 3423946296801948341
+      russiancars_pack1_top_85: -4649695292494328897
+      russiancars_pack1_top_86: -2881265499769966709
+      russiancars_pack1_top_87: -954202434447019961
+      russiancars_pack1_top_88: -8750601823530808115
+      russiancars_pack1_top_89: 7097226361401417004
+      russiancars_pack1_top_9: -1278320769104769036
+      russiancars_pack1_top_90: -2191784309400610252
+      russiancars_pack1_top_91: 6046515802320695086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
