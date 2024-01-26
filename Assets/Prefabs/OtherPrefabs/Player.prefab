@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 2624448463036262273}
   - component: {fileID: 6452194308156835476}
   - component: {fileID: 30752324269903555}
+  - component: {fileID: 5504690895917228311}
   m_Layer: 5
   m_Name: Player
   m_TagString: Untagged
@@ -64,7 +65,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   swipeListener: {fileID: 0}
   playerRectTransform: {fileID: 4309553070986186150}
-  playerSpeed: 0
   _playerSprites:
   - {fileID: -7103696136929513733, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
   - {fileID: -1139820555906587393, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
@@ -190,9 +190,7 @@ MonoBehaviour:
   ExitTrigger:
     m_PersistentCalls:
       m_Calls: []
-  clip: {fileID: 0}
   CollideTag: 
-  disableCollide: 0
 --- !u!114 &30752324269903555
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -225,4 +223,25 @@ MonoBehaviour:
         m_CallState: 2
   clip: {fileID: 0}
   CollideName: BG
+  disableCollide: 0
+--- !u!114 &5504690895917228311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4064267633770335212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b24514bdaed13034295f64eed4d38ced, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TriggerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  ExitTrigger:
+    m_PersistentCalls:
+      m_Calls: []
+  clip: {fileID: 0}
+  CollideName: Obstacle
   disableCollide: 0

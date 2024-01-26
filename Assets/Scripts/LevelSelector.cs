@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class LevelSelector : MonoBehaviour
 {
     [SerializeField] private GameObject levelPrefab;
-    private int levelCount = 7;
+    private int levelCount = 8;
 
     private void Awake()
     {

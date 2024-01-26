@@ -8,6 +8,7 @@ TagManager:
   - BG
   - Fruits2
   - Fruits3
+  - Obstacle
   layers:
   - Default
   - TransparentFX

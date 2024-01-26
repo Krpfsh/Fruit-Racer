@@ -23,6 +23,7 @@ public class LevelManager : MonoBehaviour
     private int _fruitNumber;
 
     private int win;
+    private int _moneyWin = 100;
 
     private void Awake()
     {
@@ -35,10 +36,19 @@ public class LevelManager : MonoBehaviour
     {
         win++;
         UpdateCollectedFruitsText();
+        Win();
+    }
+    private void Win()
+    {
         if (win == _fruitNumber)
         {
             OffPlayerMove();
             Time.timeScale = 0f;
+            if (MenuManager.LevelId >= PlayerPrefs.GetInt("LevelComplete", 0))
+            {
+                PlayerPrefs.SetInt("LevelComplete", PlayerPrefs.GetInt("LevelComplete", 0)+1);
+            }
+            MenuManager.MoneyCount += _moneyWin;
             _winWindow.SetActive(true);
         }
     }

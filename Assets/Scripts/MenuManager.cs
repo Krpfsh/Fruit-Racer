@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public static class MenuManager
+public static class DataScenes
 {
     public static int LevelId = 0;
     public static int LevelsLength = 0;

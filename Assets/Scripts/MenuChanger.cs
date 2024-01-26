@@ -12,7 +12,10 @@ public class MenuChanger : MonoBehaviour
     public void RestartGameScene()
     {
         SceneManager.LoadScene("Game Scene");
-
+    }
+    public void GoToShopScene()
+    {
+        SceneManager.LoadScene("Shop Scene");
     }
     public void OffBonus()
     {
@@ -27,12 +30,6 @@ public class MenuChanger : MonoBehaviour
     }
     public void NextScene()
     {
-        if(MenuManager.LevelId == PlayerPrefs.GetInt("LevelComplete", 0))
-        {
-            MenuManager.LevelId++;
-        }
-        PlayerPrefs.SetInt("LevelComplete", MenuManager.LevelId);
         SceneManager.LoadScene("Bonus Scene");
-
     }
 }
