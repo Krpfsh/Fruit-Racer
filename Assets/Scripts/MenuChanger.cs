@@ -21,6 +21,7 @@ public class MenuChanger : MonoBehaviour
     {
         if (MenuManager.LevelId < MenuManager.LevelsLength)
         {
+            MenuManager.LevelId++;
             SceneManager.LoadScene("Game Scene");
         }
         else

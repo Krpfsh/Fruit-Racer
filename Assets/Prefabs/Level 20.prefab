@@ -245,7 +245,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 5.3446045, y: -4.6582947}
+  m_Offset: {x: -0.054260254, y: -4.6582947}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -256,7 +256,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 109.40662, y: 129.17377}
+  m_Size: {x: 451.33667, y: 129.17377}
   m_EdgeRadius: 0
 --- !u!1 &1026831939072220778
 GameObject:
@@ -1651,7 +1651,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 5.3446045, y: -4.6582947}
+  m_Offset: {x: -0.95410156, y: -4.6582947}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1662,7 +1662,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 109.40662, y: 129.17377}
+  m_Size: {x: 453.13635, y: 129.17377}
   m_EdgeRadius: 0
 --- !u!1 &3374279008571463413
 GameObject:
@@ -1760,7 +1760,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 5.3446045, y: -4.6582947}
+  m_Offset: {x: 2.645111, y: -4.6582947}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1771,7 +1771,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 109.40662, y: 129.17377}
+  m_Size: {x: 449.53705, y: 129.17377}
   m_EdgeRadius: 0
 --- !u!1 &3473735592438965878
 GameObject:
@@ -2335,11 +2335,18 @@ MonoBehaviour:
   _fruitsCart1:
   - {fileID: 6418316251667759939}
   - {fileID: 6855482501510234506}
+  - {fileID: 769861853814947175}
+  - {fileID: 1641553971506589519}
   _fruitsCart2:
   - {fileID: 1026831939072220778}
+  - {fileID: 3560596003327962891}
+  - {fileID: 2294571342751806336}
+  - {fileID: 3014001774079641863}
   _fruitsCart3:
   - {fileID: 5644424893126700635}
   - {fileID: 7826428377362310280}
+  - {fileID: 2224747179640231477}
+  - {fileID: 5529188920430200035}
   _fruitsCollected: {fileID: 4016548613070586371}
   _player: {fileID: 4590344952581934534}
   _winWindow: {fileID: 8814688341464776152}
