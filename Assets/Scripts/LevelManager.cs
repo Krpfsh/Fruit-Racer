@@ -25,6 +25,20 @@ public class LevelManager : MonoBehaviour
     private int win;
     private int _moneyWin = 100;
 
+    private void OnEnable()
+    {
+        Timer.OnFailed += Failed;
+        OnCollideSimple.OnFailed += Failed;
+        OnCollideSimple.OnAccept += Accept;
+        SkipLevelAdBehavior.AdClick += Win;
+    }
+    private void OnDisable()
+    {
+        Timer.OnFailed -= Failed;
+        OnCollideSimple.OnFailed -= Failed;
+        OnCollideSimple.OnAccept -= Accept;
+        SkipLevelAdBehavior.AdClick -= Win;
+    }
     private void Awake()
     {
         Time.timeScale = 1.0f;
@@ -36,21 +50,25 @@ public class LevelManager : MonoBehaviour
     {
         win++;
         UpdateCollectedFruitsText();
-        Win();
+        CheckWin();
     }
-    private void Win()
+    private void CheckWin()
     {
         if (win == _fruitNumber)
         {
-            OffPlayerMove();
-            Time.timeScale = 0f;
-            if (MenuManager.LevelId >= PlayerPrefs.GetInt("LevelComplete", 0))
-            {
-                PlayerPrefs.SetInt("LevelComplete", PlayerPrefs.GetInt("LevelComplete", 0)+1);
-            }
-            MenuManager.MoneyCount += _moneyWin;
-            _winWindow.SetActive(true);
+            Win();
         }
+    }
+    public void Win()
+    {
+        OffPlayerMove();
+        Time.timeScale = 0f;
+        if (MenuManager.LevelId >= PlayerPrefs.GetInt("LevelComplete", 0))
+        {
+            PlayerPrefs.SetInt("LevelComplete", PlayerPrefs.GetInt("LevelComplete", 0) + 1);
+        }
+        MenuManager.MoneyCount += _moneyWin;
+        _winWindow.SetActive(true);
     }
     public void Failed()
     {
@@ -109,17 +127,6 @@ public class LevelManager : MonoBehaviour
     {
         _player.GetComponent<PlayerController>().enabled = false;
     }
-    private void OnEnable()
-    {
-        Timer.OnFailed += Failed;
-        OnCollideSimple.OnFailed += Failed;
-        OnCollideSimple.OnAccept += Accept;
-    }
-    private void OnDisable()
-    {
-        Timer.OnFailed -= Failed;
-        OnCollideSimple.OnFailed -= Failed;
-        OnCollideSimple.OnAccept -= Accept;
-    }
+    
 
 }

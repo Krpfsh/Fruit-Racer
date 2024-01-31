@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273eded0ba085d24eb3bbf9a35664356, type: 3}
+  m_Name: Car 9
+  m_EditorClassIdentifier: 
+  <frontImage>k__BackingField: {fileID: -8493634984925993883, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <rightLeftImage>k__BackingField: {fileID: -5639412845889603860, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <backImage>k__BackingField: {fileID: -2097700728750071035, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <leftRightImage>k__BackingField: {fileID: 1588623354054603354, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <Name>k__BackingField: GelikArmy
+  <Price>k__BackingField: 700
+  <SkinType>k__BackingField: 9

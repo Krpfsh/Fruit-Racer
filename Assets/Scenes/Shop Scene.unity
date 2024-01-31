@@ -549,7 +549,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 413904551}
-  - component: {fileID: 413904552}
+  - component: {fileID: 413904554}
+  - component: {fileID: 413904555}
   m_Layer: 5
   m_Name: Content
   m_TagString: Untagged
@@ -573,10 +574,10 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -0.0014801, y: 313.36487}
-  m_SizeDelta: {x: 762.93, y: 1539.97}
+  m_AnchoredPosition: {x: 0, y: -806.6507}
+  m_SizeDelta: {x: 762, y: 3780}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &413904552
+--- !u!114 &413904554
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -585,23 +586,35 @@ MonoBehaviour:
   m_GameObject: {fileID: 413904550}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+  m_Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 0
-    m_Right: 0
-    m_Top: 0
-    m_Bottom: 0
-  m_ChildAlignment: 4
-  m_Spacing: 9.24
-  m_ChildForceExpandWidth: 1
-  m_ChildForceExpandHeight: 1
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
-  m_ChildScaleWidth: 0
-  m_ChildScaleHeight: 0
-  m_ReverseArrangement: 0
+    m_Left: 25
+    m_Right: 25
+    m_Top: 25
+    m_Bottom: 25
+  m_ChildAlignment: 0
+  m_StartCorner: 0
+  m_StartAxis: 0
+  m_CellSize: {x: 323.28, y: 300.5}
+  m_Spacing: {x: 45.31, y: 74.1}
+  m_Constraint: 0
+  m_ConstraintCount: 2
+--- !u!114 &413904555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413904550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc9308498847e994a89ea4cfb5a1ff08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _itemParent: {fileID: 413904551}
+  _shopItemViewFactory: {fileID: 11400000, guid: 6490d57f903f8e540b4ce1ccb5a6df2d, type: 2}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -926,6 +939,7 @@ GameObject:
   - component: {fileID: 1539882929}
   - component: {fileID: 1539882930}
   - component: {fileID: 1539882931}
+  - component: {fileID: 1539882932}
   m_Layer: 5
   m_Name: ScrollRect
   m_TagString: Untagged
@@ -997,6 +1011,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Padding: {x: 0, y: 0, z: 0, w: 0}
   m_Softness: {x: 0, y: 0}
+--- !u!114 &1539882932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539882928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1686460347ddcfc4a8fa297bf83e5e90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _contentItems: {fileID: 11400000, guid: 35e7a61277add2d4c8f93e3308668460, type: 2}
+  _shopPanel: {fileID: 413904555}
 --- !u!1 &1721431966
 GameObject:
   m_ObjectHideFlags: 0

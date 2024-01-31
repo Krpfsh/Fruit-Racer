@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273eded0ba085d24eb3bbf9a35664356, type: 3}
+  m_Name: Car 12
+  m_EditorClassIdentifier: 
+  <frontImage>k__BackingField: {fileID: -2993655658360971858, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <rightLeftImage>k__BackingField: {fileID: -6822346604328666676, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <backImage>k__BackingField: {fileID: -8261129066569601871, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <leftRightImage>k__BackingField: {fileID: 5476259442578868342, guid: 443b0f4a5bc314b4abaaabeab27517cc, type: 3}
+  <Name>k__BackingField: CubeOrange
+  <Price>k__BackingField: 300
+  <SkinType>k__BackingField: 12

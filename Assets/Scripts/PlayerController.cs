@@ -1,4 +1,5 @@
 using GG.Infrastructure.Utils.Swipe;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,7 +11,23 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Sprite[] _playerSprites;
 
     private Vector2 playerDirection = Vector2.zero;
-
+    
+    [SerializeField] private ShopContent _contentItems;
+    private void Awake()
+    {
+        foreach (var item in _contentItems.CharacterSkinItems.Cast<ShopItem>()) 
+        {
+            if(PlayerPrefs.GetString("Selected", "DefaultCar") == item.Name)
+            {
+                /// front rightleft back left right
+                _playerSprites[0] = item.frontImage;
+                _playerSprites[1] = item.rightLeftImage;
+                _playerSprites[2] = item.backImage;
+                _playerSprites[3] = item.leftRightImage;
+                gameObject.GetComponent<Image>().sprite = _playerSprites[3];
+            }
+        }
+    }
     private void OnEnable()
     {
         swipeListener.OnSwipe.AddListener(OnSwipe);

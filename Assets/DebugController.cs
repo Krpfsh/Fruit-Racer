@@ -9,12 +9,7 @@ public class DebugController : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
+        if (debug)
         PlayerPrefs.SetInt("LevelComplete", levelcomplets);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
