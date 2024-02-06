@@ -1,12 +1,12 @@
 using UnityEngine;
 
-public static class MenuManager
+public static class DataScenes
 {
     public static int LevelId = 0;
-    public static int LevelsLength = 0;
+    public static int LevelsLength = 50;
 
     //Money
-    //public static int MoneyCount = PlayerPrefs.GetInt("Money",0);
-    public static int MoneyCount = 10000;
+    public static int MoneyCount = PlayerPrefs.GetInt("Money",0);
+
      
 }

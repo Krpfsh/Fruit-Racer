@@ -1,12 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System;
 
 public class ChangeLevelButton : MonoBehaviour
 {
     public int LevelId;
     private Button button;
-
+    public static Action OnLevelEnter;
     ChangeLevelButton(int id ) { 
         LevelId = id;
     }
@@ -23,7 +24,8 @@ public class ChangeLevelButton : MonoBehaviour
 
     private void OnButtonClick()
     {
-        MenuManager.LevelId = LevelId;
+        DataScenes.LevelId = LevelId;
+        OnLevelEnter();
         SceneManager.LoadScene("Game Scene");
     }
 }

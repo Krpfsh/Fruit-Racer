@@ -5,11 +5,11 @@ using UnityEngine;
 
 public class TextLevel : MonoBehaviour
 {
-    [SerializeField] private GameObject test;
+    [SerializeField] private GameObject numberText;
 
     private void Start()
     {
 
-        gameObject.GetComponent<TextMeshProUGUI>().text = "Уровень " + (test.GetComponent<ChangeLevelButton>().LevelId+1).ToString();
+        gameObject.GetComponent<TextMeshProUGUI>().text = (numberText.GetComponent<ChangeLevelButton>().LevelId+1).ToString();
     }
 }

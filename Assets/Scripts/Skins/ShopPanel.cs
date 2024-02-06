@@ -11,6 +11,7 @@ public class ShopPanel : MonoBehaviour
     [SerializeField] private Transform _itemParent;
     [SerializeField] private ShopItemViewFactory _shopItemViewFactory;
 
+    public static Action OnBuySkin;
     private void Start()
     {
         PlayerPrefs.SetString("DefaultCar", "true");
@@ -68,9 +69,9 @@ public class ShopPanel : MonoBehaviour
         {
             //не куплен 
             //хватает ли нам денег
-            if (view.Price <= MenuManager.MoneyCount)
+            if (view.Price <= DataScenes.MoneyCount)
             {
-                MenuManager.MoneyCount -= view.Price;
+                DataScenes.MoneyCount -= view.Price;
                 MoneyBehavior.UpdateText();
                 PlayerPrefs.SetString($"{view.Name}", "true");
                 PlayerPrefs.SetString("Selected", view.Name);
@@ -79,6 +80,7 @@ public class ShopPanel : MonoBehaviour
                     item.Unselect();
                     item.UnHighlight();
                 }
+                OnBuySkin();
                 view.Select();
                 view.Highlight();
                 view.Unlock();

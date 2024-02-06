@@ -18,11 +18,11 @@ public class MoneyBehavior : MonoBehaviour
     }
     private void Awake()
     {
-        gameObject.GetComponent<TextMeshProUGUI>().text = MenuManager.MoneyCount.ToString();
+        gameObject.GetComponent<TextMeshProUGUI>().text = DataScenes.MoneyCount.ToString();
     }
     public void MoneyTextUpdate()
     {
-        gameObject.GetComponent<TextMeshProUGUI>().text = MenuManager.MoneyCount.ToString();
+        gameObject.GetComponent<TextMeshProUGUI>().text = DataScenes.MoneyCount.ToString();
     }
 
 }

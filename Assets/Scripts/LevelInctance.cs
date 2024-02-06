@@ -8,6 +8,6 @@ public class LevelInctance : MonoBehaviour
 
     private void Awake()
     {
-        Debug.Log(MenuManager.LevelsLength);
+        Debug.Log(DataScenes.LevelsLength);
     }
 }

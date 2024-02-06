@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using YG;
 
 public class LevelSelector : MonoBehaviour
 {
@@ -10,10 +11,11 @@ public class LevelSelector : MonoBehaviour
 
     private void Awake()
     {
+        
         for (int i = 0; i < levelCount; i++)
         {
             GameObject newObject = Instantiate(levelPrefab);
-            newObject.name = "Level " + i;
+            newObject.name =  "Level " + i;
             newObject.GetComponent<ChangeLevelButton>().LevelId = i;
             if(newObject.GetComponent<ChangeLevelButton>().LevelId > PlayerPrefs.GetInt("LevelComplete", 0))
             {

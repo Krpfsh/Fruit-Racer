@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using System;
 using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour
@@ -25,19 +26,24 @@ public class LevelManager : MonoBehaviour
     private int win;
     private int _moneyWin = 100;
 
+    
+    public static Action OnBGMusicOff;
+
+
+
     private void OnEnable()
     {
         Timer.OnFailed += Failed;
         OnCollideSimple.OnFailed += Failed;
         OnCollideSimple.OnAccept += Accept;
-        SkipLevelAdBehavior.AdClick += Win;
+        SkipLevelAdBehavior.OnAdClick += Win;
     }
     private void OnDisable()
     {
         Timer.OnFailed -= Failed;
         OnCollideSimple.OnFailed -= Failed;
         OnCollideSimple.OnAccept -= Accept;
-        SkipLevelAdBehavior.AdClick -= Win;
+        SkipLevelAdBehavior.OnAdClick -= Win;
     }
     private void Awake()
     {
@@ -56,22 +62,28 @@ public class LevelManager : MonoBehaviour
     {
         if (win == _fruitNumber)
         {
+            
             Win();
         }
     }
     public void Win()
     {
         OffPlayerMove();
+        OnBGMusicOff();
         Time.timeScale = 0f;
-        if (MenuManager.LevelId >= PlayerPrefs.GetInt("LevelComplete", 0))
+        if (DataScenes.LevelId >= PlayerPrefs.GetInt("LevelComplete", 0))
         {
             PlayerPrefs.SetInt("LevelComplete", PlayerPrefs.GetInt("LevelComplete", 0) + 1);
         }
-        MenuManager.MoneyCount += _moneyWin;
+        DataScenes.MoneyCount += _moneyWin;
         _winWindow.SetActive(true);
     }
     public void Failed()
     {
+        if(OnBGMusicOff != null) //почему то ошибка
+        {
+        OnBGMusicOff();
+        }
         OffPlayerMove();
         Time.timeScale = 0f;
         _loseWindow.SetActive(true);

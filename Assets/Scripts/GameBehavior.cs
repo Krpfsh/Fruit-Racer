@@ -8,10 +8,9 @@ public class GameBehavior : MonoBehaviour
     public Canvas canvas;
     private void Awake()
     {
-        MenuManager.LevelsLength = levels.Length;
-        if (MenuManager.LevelId < MenuManager.LevelsLength)
+        if (DataScenes.LevelId < DataScenes.LevelsLength)
         {
-            GameObject newObject = Instantiate(levels[MenuManager.LevelId], Vector3.zero, Quaternion.identity);
+            GameObject newObject = Instantiate(levels[DataScenes.LevelId], Vector3.zero, Quaternion.identity);
             // Установка канваса в качестве родителя для нового объекта
             newObject.transform.SetParent(canvas.transform, false);
         }
