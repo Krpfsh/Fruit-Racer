@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8738287685111253103}
   - component: {fileID: 5671500237132724178}
   - component: {fileID: 7880390878930256244}
+  - component: {fileID: 3215425308211101239}
   m_Layer: 5
   m_Name: Kiwi (17)
   m_TagString: Fruits3
@@ -149,6 +150,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &3215425308211101239
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 944534234889642092}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1002402018454990302
 GameObject:
   m_ObjectHideFlags: 0
@@ -1070,6 +1092,7 @@ GameObject:
   - component: {fileID: 4700754834289792907}
   - component: {fileID: 6298955353032878685}
   - component: {fileID: 1437540491626729935}
+  - component: {fileID: 3540033014550427948}
   m_Layer: 5
   m_Name: Kiwi (14)
   m_TagString: Fruits
@@ -1206,6 +1229,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &3540033014550427948
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2248452737753269834}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2349133911027770661
 GameObject:
   m_ObjectHideFlags: 0
@@ -1219,6 +1263,7 @@ GameObject:
   - component: {fileID: 789109514532775459}
   - component: {fileID: 7722497949522843690}
   - component: {fileID: 2470471387758141623}
+  - component: {fileID: 1880046878819260968}
   m_Layer: 5
   m_Name: Kiwi (20)
   m_TagString: Fruits3
@@ -1355,6 +1400,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &1880046878819260968
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2349133911027770661}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2375724223704728218
 GameObject:
   m_ObjectHideFlags: 0
@@ -1717,6 +1783,7 @@ GameObject:
   - component: {fileID: 3998894247056417532}
   - component: {fileID: 3049298150898491895}
   - component: {fileID: 7699068911407261831}
+  - component: {fileID: 7726140030092463758}
   m_Layer: 5
   m_Name: Kiwi (16)
   m_TagString: Fruits3
@@ -1853,6 +1920,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &7726140030092463758
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2872570311881446422}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &3374279008571463413
 GameObject:
   m_ObjectHideFlags: 0
@@ -2199,6 +2287,7 @@ GameObject:
   - component: {fileID: 129849846770811518}
   - component: {fileID: 479648689680395840}
   - component: {fileID: 5641396225977123455}
+  - component: {fileID: 4856907917808890585}
   m_Layer: 5
   m_Name: Kiwi (19)
   m_TagString: Fruits3
@@ -2335,6 +2424,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &4856907917808890585
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4194481257285027086}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4534192154100641987
 GameObject:
   m_ObjectHideFlags: 0
@@ -2457,6 +2567,7 @@ GameObject:
   - component: {fileID: 5189449037717635167}
   - component: {fileID: 2963219249974429208}
   - component: {fileID: 3439010332474677757}
+  - component: {fileID: 3810567102864778273}
   m_Layer: 5
   m_Name: Kiwi (12)
   m_TagString: Fruits
@@ -2593,6 +2704,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &3810567102864778273
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4642305506678665714}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4688755552961267538
 GameObject:
   m_ObjectHideFlags: 0
@@ -3221,6 +3353,7 @@ GameObject:
   - component: {fileID: 8931618054833473230}
   - component: {fileID: 2618157644593788115}
   - component: {fileID: 8301634926831487653}
+  - component: {fileID: 6109793342224034944}
   m_Layer: 5
   m_Name: Kiwi (9)
   m_TagString: Fruits3
@@ -3357,6 +3490,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &6109793342224034944
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5644424893126700635}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6063167655717742247
 GameObject:
   m_ObjectHideFlags: 0
@@ -3445,6 +3599,7 @@ GameObject:
   - component: {fileID: 634783963294743161}
   - component: {fileID: 5267571673525498326}
   - component: {fileID: 5548110215016197324}
+  - component: {fileID: 1641177245272424819}
   m_Layer: 5
   m_Name: Kiwi (10)
   m_TagString: Fruits
@@ -3581,6 +3736,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &1641177245272424819
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6065793265313181327}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6092860196526813664
 GameObject:
   m_ObjectHideFlags: 0
@@ -3669,6 +3845,7 @@ GameObject:
   - component: {fileID: 2015242581010047052}
   - component: {fileID: 4527197317925730176}
   - component: {fileID: 6693229331465593165}
+  - component: {fileID: 7627248452360367679}
   m_Layer: 5
   m_Name: Kiwi (6)
   m_TagString: Fruits
@@ -3805,6 +3982,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &7627248452360367679
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6418316251667759939}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6485387905464299692
 GameObject:
   m_ObjectHideFlags: 0
@@ -4281,6 +4479,7 @@ GameObject:
   - component: {fileID: 151989018184173855}
   - component: {fileID: 9097308651936901892}
   - component: {fileID: 3406689651460027126}
+  - component: {fileID: 2280885860685720972}
   m_Layer: 5
   m_Name: Kiwi (21)
   m_TagString: Fruits3
@@ -4417,6 +4616,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &2280885860685720972
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7070234421965565022}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7224901704811395349
 GameObject:
   m_ObjectHideFlags: 0
@@ -4430,6 +4650,7 @@ GameObject:
   - component: {fileID: 7784408269504231453}
   - component: {fileID: 6799075142107347341}
   - component: {fileID: 4907307377560429505}
+  - component: {fileID: 3523152087427650443}
   m_Layer: 5
   m_Name: Kiwi (8)
   m_TagString: Fruits
@@ -4566,6 +4787,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &3523152087427650443
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7224901704811395349}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7639449807733530427
 GameObject:
   m_ObjectHideFlags: 0
@@ -4728,6 +4970,7 @@ GameObject:
   - component: {fileID: 3088488481012963508}
   - component: {fileID: 6105244505633182770}
   - component: {fileID: 2821163478729349396}
+  - component: {fileID: 4174588609945399253}
   m_Layer: 5
   m_Name: Kiwi (13)
   m_TagString: Fruits
@@ -4864,6 +5107,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &4174588609945399253
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7782520156151539911}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8265436562626095905
 GameObject:
   m_ObjectHideFlags: 0
@@ -4877,6 +5141,7 @@ GameObject:
   - component: {fileID: 1533645291652451945}
   - component: {fileID: 7837361318484011018}
   - component: {fileID: 390478774009926370}
+  - component: {fileID: 916406449910671337}
   m_Layer: 5
   m_Name: Kiwi (18)
   m_TagString: Fruits3
@@ -5013,6 +5278,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &916406449910671337
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8265436562626095905}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8280246005795423726
 GameObject:
   m_ObjectHideFlags: 0
@@ -5235,6 +5521,7 @@ GameObject:
   - component: {fileID: 6800693651343979219}
   - component: {fileID: 606751975695736434}
   - component: {fileID: 6013224434762934612}
+  - component: {fileID: 5447578079445953749}
   m_Layer: 5
   m_Name: Kiwi (11)
   m_TagString: Fruits
@@ -5371,6 +5658,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &5447578079445953749
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8369882491889926036}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8492939199339635920
 GameObject:
   m_ObjectHideFlags: 0
@@ -5384,6 +5692,7 @@ GameObject:
   - component: {fileID: 1141325294454503183}
   - component: {fileID: 2854277195201895770}
   - component: {fileID: 4540979145793260569}
+  - component: {fileID: 1455009499861757818}
   m_Layer: 5
   m_Name: Kiwi (15)
   m_TagString: Fruits
@@ -5520,6 +5829,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 100, y: 100}
   m_EdgeRadius: 0
+--- !u!95 &1455009499861757818
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8492939199339635920}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 364156f51978760459601d8326bc2ffb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &563798264254088746
 PrefabInstance:
   m_ObjectHideFlags: 0

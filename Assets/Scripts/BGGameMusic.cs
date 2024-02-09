@@ -45,11 +45,11 @@ public class BGGameMusic : MonoBehaviour
     }
     private void BgSoundOff()
     {
-        audioSrc.volume = 0f;
+        audioSrc.volume = 0.3f;
     }
     private void BgSoundOn()
     {
-        audioSrc.volume = 0f;
+        audioSrc.volume = 0.8f;
     }
     private void DestroySound()
     {

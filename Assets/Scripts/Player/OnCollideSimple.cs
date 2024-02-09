@@ -9,6 +9,7 @@ public class OnCollideSimple : MonoBehaviour
     [SerializeField] protected string CollideTag;
     public static Action OnFailed;
     public static Action OnAccept;
+    public static Action OnEatFruitSound;
     public void SubEvent(UnityAction action)
     {
         TriggerEvent.AddListener(action);
@@ -21,16 +22,19 @@ public class OnCollideSimple : MonoBehaviour
 
         if (LevelManager.IsActiveCart1 && collision.gameObject.CompareTag("Fruits"))
         {
+            OnEatFruitSound();
             collision.gameObject.SetActive(false);
             OnAccept();
         }
         else if (LevelManager.IsActiveCart2 && collision.gameObject.CompareTag("Fruits2"))
         {
+            OnEatFruitSound();
             collision.gameObject.SetActive(false);
             OnAccept();
         }
         else if (LevelManager.IsActiveCart3 && collision.gameObject.CompareTag("Fruits3"))
         {
+            OnEatFruitSound();
             collision.gameObject.SetActive(false);
             OnAccept();
         }

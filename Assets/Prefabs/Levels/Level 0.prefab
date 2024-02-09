@@ -274,8 +274,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 00:30
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9313767c71176b64faaba47336c733d6, type: 2}
-  m_sharedMaterial: {fileID: -9065746035247565839, guid: 9313767c71176b64faaba47336c733d6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 13ea231381925e04ab146d06c24ceffc, type: 2}
+  m_sharedMaterial: {fileID: -9065746035247565839, guid: 13ea231381925e04ab146d06c24ceffc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1405,8 +1405,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0/11
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9313767c71176b64faaba47336c733d6, type: 2}
-  m_sharedMaterial: {fileID: -9065746035247565839, guid: 9313767c71176b64faaba47336c733d6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 13ea231381925e04ab146d06c24ceffc, type: 2}
+  m_sharedMaterial: {fileID: -9065746035247565839, guid: 13ea231381925e04ab146d06c24ceffc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3771,9 +3771,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: WInLosePopup
       objectReference: {fileID: 0}
-    - target: {fileID: 2621030227056413276, guid: 042b8625ad355be47a9fb906152906b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
+    - target: {fileID: 2729790614627281810, guid: 042b8625ad355be47a9fb906152906b2, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6507038970660552147, guid: 042b8625ad355be47a9fb906152906b2, type: 3}
       propertyPath: m_Pivot.x

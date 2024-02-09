@@ -27,10 +27,15 @@ public class MenuChanger : MonoBehaviour
         OnButtonClickSound();
         SceneManager.LoadScene("Game Scene");
     }
-    public void GoToShopScene()
+    public void FromGameToTheShop()
     {
         OnShop();
         OnDestroyGameSound();
+        SceneManager.LoadScene("Shop Scene");
+    }
+    public void FromMainMenuToTheShop()
+    {
+        OnShop();
         SceneManager.LoadScene("Shop Scene");
     }
     public void OffBonus()

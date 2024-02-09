@@ -1,6 +1,4 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(AudioSource))]
@@ -11,6 +9,7 @@ public class Sounds : MonoBehaviour
     public AudioClip EnterShop;
     public AudioClip EnterLevel;
     public AudioClip BuySkin;
+    public AudioClip EatFruitClip;
 
 
     private void OnEnable()
@@ -22,6 +21,8 @@ public class Sounds : MonoBehaviour
         MoneyAdsAdd.OnButtonSound += ButtonClick;
         SkipLevelAdBehavior.OnButtonClickSound += ButtonClick;
         BonusManager.OnButtonClick += ButtonClick;
+        OnCollideSimple.OnEatFruitSound += EatFruit;
+        LevelManager.OnButtonClickSound += ButtonClick;
 
     }
     private void OnDisable()
@@ -33,6 +34,8 @@ public class Sounds : MonoBehaviour
         MoneyAdsAdd.OnButtonSound -= ButtonClick;
         SkipLevelAdBehavior.OnButtonClickSound -= ButtonClick;
         BonusManager.OnButtonClick -= ButtonClick;
+        OnCollideSimple.OnEatFruitSound -= EatFruit;
+        LevelManager.OnButtonClickSound -= ButtonClick;
     }
     private void Awake()
     {
@@ -62,6 +65,12 @@ public class Sounds : MonoBehaviour
     public void BuySkinSound()
     {
         audioSrc.clip = BuySkin;
+        audioSrc.Play();
+    }
+    public void EatFruit()
+    {
+        audioSrc.clip = EatFruitClip;
+        audioSrc.pitch = UnityEngine.Random.Range(0.8f, 1.2f);
         audioSrc.Play();
     }
 }

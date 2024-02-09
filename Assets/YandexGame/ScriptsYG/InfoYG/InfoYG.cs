@@ -44,7 +44,7 @@ namespace YG
         {
             public bool authorized = true;
             public bool isMobile;
-            public string language = "ru";
+            public string language = "ruufk";
             public string name = "Player this";
             public string uniqueID = "000";
             public string photo = photoExample;

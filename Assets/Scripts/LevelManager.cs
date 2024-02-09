@@ -28,8 +28,10 @@ public class LevelManager : MonoBehaviour
 
     
     public static Action OnBGMusicOff;
+    public static Action OnMotorSoundOff;
+    public static Action OnButtonClickSound;
 
-
+    public static bool GameIsStop;
 
     private void OnEnable()
     {
@@ -47,7 +49,7 @@ public class LevelManager : MonoBehaviour
     }
     private void Awake()
     {
-        Time.timeScale = 1.0f;
+        GameIsStop = false;
         _fruitNumber = _fruitsCart1.Length + _fruitsCart2.Length + _fruitsCart3.Length;
         UpdateCollectedFruitsText();
         CartChanger(0);
@@ -70,7 +72,8 @@ public class LevelManager : MonoBehaviour
     {
         OffPlayerMove();
         OnBGMusicOff();
-        Time.timeScale = 0f;
+        OnMotorSoundOff();
+        GameIsStop = true;
         if (DataScenes.LevelId >= PlayerPrefs.GetInt("LevelComplete", 0))
         {
             PlayerPrefs.SetInt("LevelComplete", PlayerPrefs.GetInt("LevelComplete", 0) + 1);
@@ -84,8 +87,12 @@ public class LevelManager : MonoBehaviour
         {
         OnBGMusicOff();
         }
+        if(OnMotorSoundOff != null)
+        {
+            OnMotorSoundOff();
+        }
         OffPlayerMove();
-        Time.timeScale = 0f;
+        GameIsStop = true;
         _loseWindow.SetActive(true);
     }
     public void CartChanger(int cartNumber)
@@ -96,6 +103,7 @@ public class LevelManager : MonoBehaviour
         switch (cartNumber)
         {
             case 0:
+                OnButtonClickSound();
                 for (int i = 0; i < _carts.Length; i++)
                 {
                     _carts[i].enabled = false;
@@ -106,6 +114,7 @@ public class LevelManager : MonoBehaviour
                 IsActiveCart3 = false;
                 break;
             case 1:
+                OnButtonClickSound();
                 for (int i = 0; i < _carts.Length; i++)
                 {
                     _carts[i].enabled = false;
@@ -116,6 +125,7 @@ public class LevelManager : MonoBehaviour
                 IsActiveCart3 = false;
                 break;
             case 2:
+                OnButtonClickSound();
                 for (int i = 0; i < _carts.Length; i++)
                 {
                     _carts[i].enabled = false;
