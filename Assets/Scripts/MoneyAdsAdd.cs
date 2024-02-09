@@ -49,5 +49,6 @@ public class MoneyAdsAdd : MonoBehaviour
     {
         DataScenes.MoneyCount += moneyAdd;
         MoneyBehavior.UpdateText();
+        DataScenes.Save();
     }
 }

@@ -79,6 +79,7 @@ public class LevelManager : MonoBehaviour
             PlayerPrefs.SetInt("LevelComplete", PlayerPrefs.GetInt("LevelComplete", 0) + 1);
         }
         DataScenes.MoneyCount += _moneyWin;
+        DataScenes.Save();
         _winWindow.SetActive(true);
     }
     public void Failed()

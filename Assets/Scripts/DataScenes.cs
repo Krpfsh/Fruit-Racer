@@ -8,5 +8,9 @@ public static class DataScenes
     //Money
     public static int MoneyCount = PlayerPrefs.GetInt("Money",0);
 
-     
+    public static void Save()
+    {
+        PlayerPrefs.SetInt("Money", MoneyCount);
+    }
+
 }

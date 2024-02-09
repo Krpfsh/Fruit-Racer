@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 842300e200e59c64593112fcfde03f24
+guid: 6a13dc4adea54244283b1fba370ff1a4
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Pixelify Sans
+  - Borders Divide But Hearts Shall [RUS by Penka220]
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

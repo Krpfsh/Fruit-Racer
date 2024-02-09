@@ -71,6 +71,7 @@ public class ShopPanel : MonoBehaviour
             if (view.Price <= DataScenes.MoneyCount)
             {
                 DataScenes.MoneyCount -= view.Price;
+                DataScenes.Save();
                 MoneyBehavior.UpdateText();
                 PlayerPrefs.SetString($"{view.Name}", "true");
                 PlayerPrefs.SetString("Selected", view.Name);

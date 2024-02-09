@@ -160,6 +160,7 @@ GameObject:
   - component: {fileID: 5403249595344771305}
   - component: {fileID: 6685906179149873887}
   - component: {fileID: 7727471221998376207}
+  - component: {fileID: 685965498994396786}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -283,6 +284,58 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &685965498994396786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 685381387086662537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f34f36451b093ee4c83ad4aa5459d2ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textMPComponent: {fileID: 7727471221998376207}
+  uniqueFontTMP: {fileID: 0}
+  textLComponent: {fileID: 0}
+  infoYG: {fileID: 11400000, guid: 162644796a8b0d044bce3d6fda0641e3, type: 2}
+  text: 
+  ru: "\u0412\u043F\u0435\u0440\u0451\u0434!"
+  en: Forward!
+  tr: "\u0130leri!"
+  az: 
+  be: 
+  he: 
+  hy: 
+  ka: 
+  et: 
+  fr: 
+  kk: 
+  ky: 
+  lt: 
+  lv: 
+  ro: 
+  tg: 
+  tk: 
+  uk: 
+  uz: 
+  es: 
+  pt: 
+  ar: 
+  id: 
+  ja: 
+  it: 
+  de: 
+  hi: 
+  changeOnlyFont: 0
+  fontNumber: 0
+  uniqueFont: {fileID: 0}
+  additionalText: {fileID: 0}
+  textHeight: 20
+  processTranslateLabel: 3/3 completed
+  componentTextField: 1
+  countLang: 3
 --- !u!1 &1026831939072220778
 GameObject:
   m_ObjectHideFlags: 0
@@ -824,7 +877,7 @@ MonoBehaviour:
   m_text: 00:30
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9313767c71176b64faaba47336c733d6, type: 2}
-  m_sharedMaterial: {fileID: -9065746035247565839, guid: 9313767c71176b64faaba47336c733d6, type: 2}
+  m_sharedMaterial: {fileID: -3721308634152806550, guid: 9313767c71176b64faaba47336c733d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2374,7 +2427,7 @@ MonoBehaviour:
   m_text: 0/11
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9313767c71176b64faaba47336c733d6, type: 2}
-  m_sharedMaterial: {fileID: -9065746035247565839, guid: 9313767c71176b64faaba47336c733d6, type: 2}
+  m_sharedMaterial: {fileID: -3721308634152806550, guid: 9313767c71176b64faaba47336c733d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
