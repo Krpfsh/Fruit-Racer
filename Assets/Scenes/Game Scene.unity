@@ -627,9 +627,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4686798923182357145, guid: fc10de0b5d3b8cc438374f6bc1549348, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 224.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4686798923182357145, guid: fc10de0b5d3b8cc438374f6bc1549348, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -343.22
+      objectReference: {fileID: 0}
     - target: {fileID: 5157407374974471263, guid: fc10de0b5d3b8cc438374f6bc1549348, type: 3}
       propertyPath: m_Name
       value: LevelNumber
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472015262208282470, guid: fc10de0b5d3b8cc438374f6bc1549348, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
