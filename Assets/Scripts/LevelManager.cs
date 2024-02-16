@@ -49,6 +49,7 @@ public class LevelManager : MonoBehaviour
     }
     private void Awake()
     {
+
         GameIsStop = false;
         _fruitNumber = _fruitsCart1.Length + _fruitsCart2.Length + _fruitsCart3.Length;
         UpdateCollectedFruitsText();
